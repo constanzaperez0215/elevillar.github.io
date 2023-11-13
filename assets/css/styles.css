@@ -118,7 +118,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 800;
   line-height: 1.2;
-  color: #0dfa8f;
+  color: #0fbd6f;
 }
 
 h1, .h1 {
@@ -11019,6 +11019,6 @@ section.resume-section .resume-section-content {
 }
 
 .footer-ele {
-  background-color: #0dfa8f;
+  background-color: grey;
   font-size: 0.8rem;
 }
